@@ -1,0 +1,5 @@
+{
+  "name": "E-commerce Product Image Editor",
+  "description": "Upload a product image and use AI to automatically clean it up, replace the background with pure white, and enhance it for e-commerce platforms like Amazon or Shopify.",
+  "requestFramePermissions": []
+}
